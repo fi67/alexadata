@@ -1,0 +1,9 @@
+  {'web':{
+		        'undergrad':'The course you want is BSc(hons) Computer Science Internet and Media Technologies',
+		        'postgrad':'The course you want is MSc Computer Science Software Engineering. It has modules on web you can take'
+		    },
+		    'software development':{
+		        'undergrad':'The course you want is BSc(hons) Computer Science Software Development. You can specialise in lots of programming languages',
+		        'postgrad':'The course you want is MSc Computer Science Software Engineering.'
+		    }
+        }
