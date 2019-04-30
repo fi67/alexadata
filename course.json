@@ -1,9 +1,10 @@
-  {'web':{
-		        'undergrad':'The course you want is BSc(hons) Computer Science Internet and Media Technologies',
-		        'postgrad':'The course you want is MSc Computer Science Software Engineering. It has modules on web you can take'
-		    },
-		    'software development':{
-		        'undergrad':'The course you want is BSc(hons) Computer Science Software Development. You can specialise in lots of programming languages',
-		        'postgrad':'The course you want is MSc Computer Science Software Engineering.'
-		    }
-        }
+{
+	'web':{
+	'undergrad':'The course you want is Bee ess sea honours Computer Science Web and Internet Management. You can enrol on Computer Science, and take this course by choosing web options',
+	'postgrad':'The course you want is emm ess sea Computer Science Software Engineering. It has modules on web you can take'
+	},
+	'software development':{
+	'undergrad':'The course you want is Bee ess sea honours Computer Science Software Development. You can specialise in programming languages. You can enrol on Computer Science, and take this course by choosing software development options',
+	'postgrad':'The course you want is emm ess sea Computer Science Software Engineering.'
+	}
+}
