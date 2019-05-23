@@ -1,0 +1,102 @@
+{
+"web concepts":{
+    "desc":"This module is about web concepts. It covers HTML, JavaScript and CSS",
+    "URL":"https://www.staffs.ac.uk/current/student/modules/showmodule.php?code=COWB40386",
+    "moduleLeader":"Fiona Knight",
+    "dp":"This is both design and programming",
+    "lectureTime":"Your class is on Tuesday in S503 at 10am and Wednesday in S504 at 9am",
+    "credits":"This is 30 credits",
+    "nextAssignment":"Your next assignment is a report on 10th Jan",
+    "assessment":"This module is 2 class tests worth 20% each and a assignment worth 60%",
+    "technology":"It uses Visual Studio code, but you can use any web editor"
+  },
+"introduction sofware development":{
+    "desc":"This module is about programming in Java. It covers Java Programming",
+    "URL":"https://www.staffs.ac.uk/current/student/modules/showmodule.php?code=COSE40577",
+    "moduleLeader":"Graham Mansfield",
+    "dp":"This is programming",
+    "lectureTime":"Your class is on Tuesday in S506 at 9am",
+    "credits":"This is 30 credits",
+    "nextAssignment":"Your next assignment is a presentation on 20th Jan",
+    "assessment":"This module is 2 prsentations, each worth 50%",
+    "technology":"It uses Netbeans, and Graham and Jan will teach you all about it"
+},
+"server side programming":{
+    "desc":"This module is about server side programming. It covers PHP",
+    "URL":"https://www.staffs.ac.uk/current/student/modules/showmodule.php?code=COWB50347",
+    "moduleLeader":"Phil Windridge",
+    "dp":"This is programming",
+    "lectureTime":"Your class is on Tuesday in S666 at 10am",
+    "credits":"This is 30 credits",
+    "nextAssignment":"Your next assignment is a exam on 10th Jan",
+    "assessment":"This module is 100% exam",
+    "technology":"It uses PHP Storm, but you can use any web editor"
+},
+"final year project":{
+    "desc":"This module is your own project with an individual supervisor",
+    "URL":"https://www.staffs.ac.uk/current/student/modules/showmodule.php?code=COIS61028",
+    "moduleLeader":"Kelvin Hilton",
+    "dp":"This fits your award so could be either",
+    "lectureTime":"You need to arrange this with your supervisor",
+    "credits":"This is 45 credits",
+    "nextAssignment":"Your next assignment is a report on 18th Jan",
+    "assessment":"This module has a mid point, final dissertation and viva",
+    "technology":"It uses the technologies you justify"
+},
+"web frameworks": {
+    "desc":"This module is about web frameworks. It covers vue and react",
+    "URL":"https://www.staffs.ac.uk/current/student/modules/showmodule.php?code=COMP60008",
+    "moduleLeader":"Fiona Knight",
+    "dp":"This is both design and programming",
+    "lectureTime":"Your class is on Tuesday in S503 at 6am",
+    "credits":"This is 30 credits",
+    "nextAssignment":"Your next assignment is a demo on 10th Jan",
+    "assessment":"This module is a demo worth 100%",
+    "technology":"It uses Visual Studio code, but you can use any web editor"
+},
+"web project":{
+    "desc":"This module is about working with a company on a project in a team",
+    "URL":"https://www.staffs.ac.uk/current/student/modules/showmodule.php?code=COWB50382",
+    "moduleLeader":"Robin Oldham",
+    "dp":"This is both design and programming, but concentates on team work",
+    "lectureTime":"Your class is on Tuesday in S503 at 7am and Wednesday in S504 at 3am",
+    "credits":"This is 30 credits",
+    "nextAssignment":"Your next assignment is a presentation to the company on 10th Jan",
+    "assessment":"This module is 2 presentations, worth 60% and an exam worth 40%",
+    "technology":"It uses whatever technology you justify"
+},
+"digital media":{
+    "desc":"This module is about digital media. It covers graphics, video and 3D",
+    "URL":"https://www.staffs.ac.uk/current/student/modules/showmodule.php?code=COWB50343",
+    "moduleLeader":"Rachael Trubshaw",
+    "dp":"This is mainly design but you will use some JavaScript",
+    "lectureTime":"Your class is on Tuesday in S503 at 6pm",
+    "credits":"This is 30 credits",
+    "nextAssignment":"Your next assignment is a demo on 16th Jan",
+    "assessment":"This module is 4 demos, each worth 25%",
+    "technology":"It uses the adobe suite of software and 3DS Max. You will get taught all about these"
+},
+"ubiquitous computing": {
+    "desc":"This module is about ubiquitous computing. It covers the internet of things and alexa skills",
+    "URL":"https://www.staffs.ac.uk/current/student/modules/showmodule.php?code=COWB60381",
+    "moduleLeader":"Rachael Trubshaw",
+    "dp":"This is research and desning and building skills",
+    "lectureTime":"Your class is on Tuesday in S503 at 11am",
+    "credits":"This is 15 credits",
+    "nextAssignment":"Your next assignment is a demo of your Alexa Skill, aren't you lucky!",
+    "assessment":"This module is an assignment worth 100%",
+    "technology":"It uses Alexa Skills developer, where I am built. Fiona will tell you all about it. She built me too"
+},
+"mobile apps":{
+    "desc":"This module is about designing and developing mobile apps. It covers Kotlin and PWA",
+    "URL":"https://www.staffs.ac.uk/current/student/modules/showmodule.php?code=COSE60594",
+    "moduleLeader":"Jan Lawton",
+    "dp":"This is both design and programming",
+    "lectureTime":"Your class is on Tuesday in S503 at 3pm",
+    "credits":"This is 30 credits",
+    "nextAssignment":"Your next assignment is a Kotlin demo on 10th Jan",
+    "assessment":"This module is 3 demos and an exams, each worth 25%",
+    "technology":"It uses various software, but don't worry you will be taught all about it by the wonderful Jan"
+}
+
+}
