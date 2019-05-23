@@ -1,0 +1,52 @@
+{
+"software":{
+"4":{
+    "core":["app modelling","introduction sofware development","fundamentals computing","web concepts"],
+    "options":["none"]
+},
+"5":{
+    "core":["engineering software apps","web and mobile apps"],
+    "options":["o o app engineering","server side programming","interactive media","concurrent network apps","task based software engineering","web development","enterprise cloud computing","strategic information"]
+},
+"6":{
+    "core":["software engineering mobile","final year project"],
+    "options":["large scale apps","web and a r","web frameworks","enterprise apps","multiple devices and U X"]
+}
+},
+"design":{
+    "4":{
+        "core":["app modelling","introduction sofware development","fundamentals computing","web concepts"],
+        "options":["none"]
+    },
+    "5":{
+        "core":["web project","digital media","visual web design","methods and tools"],
+        "options":["none"]
+    },
+    "6":{
+        "core":["ubiquitous computing","final year project"],
+        "options":["web and a r","web frameworks","multiple devices and U X"]
+    }
+
+}, 
+"development":{
+    "4":{
+        "core":["app modelling","introduction sofware development","fundamentals computing","web concepts"],
+        "options":["none"]
+    },
+    "5":{
+        "core":["web project"],
+        "options":["digital media","visual web design","methods and tools","server side programming","h t m l a p i"]
+    },
+    "6":{
+        "core":["ubiquitous computing","final year project"],
+        "options":["web and a r","web frameworks","multiple devices and U X","distributed web apps","mobile apps"]
+    }
+
+
+}
+
+
+
+
+
+}
