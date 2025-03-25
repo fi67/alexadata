@@ -1,0 +1,32 @@
+{
+  "cards": {
+    "name": "Cards Club",
+    "date_of_club": "2023-05-15",
+    "location": "Community Center, Main Street",
+    "description": "A friendly gathering for card game enthusiasts, including Poker, Bridge, and Rummy."
+  },
+  "badminton": {
+    "name": "Badminton Club",
+    "date_of_club": "2023-06-10",
+    "location": "Sports Complex, Green Avenue",
+    "description": "An active and competitive club for badminton players of all skill levels, with weekly matches and coaching."
+  },
+  "bowls": {
+    "name": "Bowls Club",
+    "date_of_club": "2023-07-20",
+    "location": "Lawn Bowls Arena, Parkside",
+    "description": "A welcoming club for those interested in lawn bowls, offering casual play and tournaments."
+  },
+  "table_tennis": {
+    "name": "Table Tennis Club",
+    "date_of_club": "2023-08-12",
+    "location": "Recreation Hall, Maple Street",
+    "description": "A vibrant club for table tennis players with weekly practice sessions and monthly mini-tournaments."
+  },
+  "computing": {
+    "name": "Computing Club",
+    "date_of_club": "2023-09-05",
+    "location": "Tech Hub, Innovation Drive",
+    "description": "A tech-savvy community for those interested in computing, coding, and new technologies. Offers workshops and hackathons."
+  }
+}
